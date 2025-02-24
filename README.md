@@ -64,4 +64,3 @@ Before starting, ensure the following tools and software are installed:
 ### 3. **Deploy to HoloLens 2**
 - In Visual Studio, select **Device** as the deployment target.
 - Click **Deploy** to install the app on the HoloLens 2.
-- 
