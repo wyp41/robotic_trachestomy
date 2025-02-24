@@ -1,4 +1,4 @@
-# Unity Program - HoloLens 2 Deployment (UWP & WebGL Support)
+# Unity Program - HoloLens 2 Deployment
 
 This project is a Unity 2022-based application designed for deployment on AR devices such as the **HoloLens 2**. It support for **Universal Windows Platform (UWP)** builds.
 
@@ -6,7 +6,7 @@ This project is a Unity 2022-based application designed for deployment on AR dev
 
 ## **Prerequisites**
 
-Before starting, ensure the following tools and software are installed [According to the Microsoft Official Documentation](https://learn.microsoft.com/zh-cn/windows/mixed-reality/develop/unity/new-openxr-project-with-mrtk):
+Before starting, ensure the following tools and software are installed ([According to the Microsoft Official Documentation])(https://learn.microsoft.com/zh-cn/windows/mixed-reality/develop/unity/new-openxr-project-with-mrtk):
 
 1. **Unity Editor**:
    - Version: `Unity 2022.X.X` (LTS preferred for stability).
